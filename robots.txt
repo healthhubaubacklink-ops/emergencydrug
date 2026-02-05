@@ -1,0 +1,48 @@
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: 
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: OpenAI
+Allow: /
+
+User-agent: Anthropic
+Allow: /
+
+User-agent: Google-AI
+Allow: /
+
+User-agent: Perplexity
+Allow: /
+
+User-agent: Copilot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
