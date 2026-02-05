@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yourwebsite.com/index.html</loc>
+    <loc>https://healthhubaubacklink-ops.github.io/emergencydrug/</loc>
     <lastmod>2026-02-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://yourwebsite.com/about.html</loc>
+    <loc>https://healthhubaubacklink-ops.github.io/emergencydrug/products.html</loc>
     <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://yourwebsite.com/contact.html</loc>
+    <loc>https://healthhubaubacklink-ops.github.io/emergencydrug/about.html</loc>
     <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://yourwebsite.com/products.html</loc>
+    <loc>https://healthhubaubacklink-ops.github.io/emergencydrug/contact.html</loc>
     <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
+
