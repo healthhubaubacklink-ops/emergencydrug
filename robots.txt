@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: 
+Sitemap: https://healthhubaubacklink-ops.github.io/emergencydrug/
 
 User-agent: Googlebot
 Allow: /
@@ -45,4 +45,5 @@ Disallow: /
 
 User-agent: FacebookBot
 Disallow: /
+
 
